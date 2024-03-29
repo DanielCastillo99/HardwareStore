@@ -1,6 +1,7 @@
 <?php
 
     include("conexion_be.php");
+    require 'includes/.env';
 
     $nombre_completo = $_POST['nombre_completo'];
     $correo = $_POST['correo'];

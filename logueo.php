@@ -1,3 +1,8 @@
+<?php
+require 'includes/.env';
+?>
+
+
 <!DOCTYPE html>
 <html lang="es">
 <head>

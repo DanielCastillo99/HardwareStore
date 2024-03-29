@@ -1,5 +1,7 @@
 {
     "name": "danna/hardwarestore",
     "description": "Gestion empresarial de productos de la ferreteria Hardware Store",
-    "require": {}
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
 }

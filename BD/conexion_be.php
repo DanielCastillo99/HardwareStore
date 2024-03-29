@@ -1,4 +1,7 @@
 <?php
+
+    require '../includes/.env';
+    require '../Includes/app.php';
     function conectarBD() : mysqli{
         $db = mysqli_connect('localhost','root','Dani123.','ferreteria');
     

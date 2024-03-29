@@ -1,6 +1,7 @@
 <?php
     //Importar base de datos
     require '../BD/conexion_be.php';
+    require '../Includes/.env';
     $db = conectarBD();
     
     //Esccribir el query
